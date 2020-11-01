@@ -26,6 +26,11 @@
             // this way seems most effective - double quotes it is! (anothr way of achievig the sme )
             echo "<h1> My name is $name </h1>";
 
+            
+
     ?>
+            <button type="button" class="btn btn-primary">Sample</button>
+            <button type="button" class="btn btn-secondary">Does Nothing</button>
+            <button type="button" class="btn btn-success">You can Click</button>
 
     <?php require 'includes/footer.php' ?>
